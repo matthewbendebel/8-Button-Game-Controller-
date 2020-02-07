@@ -34,7 +34,7 @@ This is a circuit schematic of the build.
 
 ![alt text][pic2]
 
-[pic1]: https://github.com/matthewbendebel/8-Button-Game-Controller-/blob/master/img/Circuit%20Schematic.pn
+[pic2]: https://github.com/matthewbendebel/8-Button-Game-Controller-/blob/master/img/Circuit%20Schematic.pn
 
 
 
@@ -56,3 +56,4 @@ The build team consists of:
 
 Credits
 =======
+* Fritzing software for breadboard and circuit making
