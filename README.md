@@ -24,17 +24,23 @@ Bill of Materials:
 Build Instructions
 ==================
 
-This is a generic build of the game controller with the buttons non-traditionally placed inline with one another unlike a real game controller.
+This is a generic breadboard diagram of the game controller with the buttons non-traditionally placed inline with one another unlike a real game controller.
 
 ![alt text][pic1]
 
 [pic1]: https://github.com/matthewbendebel/8-Button-Game-Controller-/blob/master/img/Breadboard.png
 
-This is a circuit schematic of the build.
+This is breadboard diagram based on a NES controller.
 
 ![alt text][pic2]
 
-[pic2]: https://github.com/matthewbendebel/8-Button-Game-Controller-/blob/master/img/Circuit%20Schematic.png
+[pic2]: https://github.com/matthewbendebel/8-Button-Game-Controller-/blob/master/img/Game%20Controller%20Breadboard.png
+
+This is a circuit schematic of the build.
+
+![alt text][pic3]
+
+[pic3]: https://github.com/matthewbendebel/8-Button-Game-Controller-/blob/master/img/Circuit%20Schematic.png
 
 
 
