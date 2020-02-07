@@ -24,6 +24,18 @@ Bill of Materials:
 Build Instructions
 ==================
 
+This is a generic build of the game controller with the buttons non-traditionally placed inline with one another unlike a real game controller.
+
+![alt text][pic1]
+
+[pic1]: https://github.com/matthewbendebel/8-Button-Game-Controller-/blob/master/img/Breadboard.png
+
+This is a circuit schematic of the build.
+
+![alt text][pic2]
+
+[pic1]: https://github.com/matthewbendebel/8-Button-Game-Controller-/blob/master/img/Circuit%20Schematic.pn
+
 
 
 Firmware Installation
