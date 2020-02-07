@@ -58,6 +58,7 @@ Team
 =====
 The build team consists of: 
 * Matthew Dylan Bendebel 
+* Su Wai Tin
 
 
 Credits
